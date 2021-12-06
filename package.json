@@ -1,0 +1,23 @@
+{
+  "name": "javascript7th",
+  "version": "1.0.0",
+  "description": "Javascript第7版でのコードを管理する",
+  "main": "sum.js",
+  "dependencies": {
+    "jest": "^27.4.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryochang122/javascript7th.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryochang122/javascript7th/issues"
+  },
+  "homepage": "https://github.com/ryochang122/javascript7th#readme"
+}
